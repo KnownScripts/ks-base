@@ -10,7 +10,7 @@ NB! Some functions might be broken or not working because of undermaintenance!!
 
 * If DB is `false` then Framework doesnt create  stock tables for database what you created
 * If DB is `true` then Framework create all stock tables
-
+* If table is already created then it doesnt overwrite it!
 
 # Depedencies
 
