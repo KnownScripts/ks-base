@@ -1,6 +1,8 @@
 # ks-base
 QBCore based FRAMEWORK for Fivem
 
+NB! Some functions might be broken or not working because of undermaintenance!!
+
 
 # Modified DrawTxt function
 
