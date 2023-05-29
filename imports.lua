@@ -6,4 +6,4 @@ end
 
 exports('GetCoreObject', GetCoreObject)
 
-QBCore = exports['Framework']:GetCoreObject()
+QBCore = exports['ks-base']:GetCoreObject()
