@@ -6,7 +6,7 @@ NB! Some functions might be broken or not working because of undermaintenance!!
 
 # Modified DrawTxt function
 
-# Added automatic DB insertion use
+# Added automatic DB insertion use [CUSTOMIZEABLE]
 
 * If DB is `false` then Framework doesnt create  stock tables for database what you created
 * If DB is `true` then Framework create all stock tables
