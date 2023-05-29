@@ -2,7 +2,9 @@
 QBCore based FRAMEWORK for Fivem
 
 
-# Added automatic DB insertion
+# Modified DrawTxt function
+
+# Added automatic DB insertion use
 
 * If DB is `false` then Framework doesnt create  stock tables for database what you created
 * If DB is `true` then Framework create all stock tables
