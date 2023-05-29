@@ -16,5 +16,6 @@ NB! Some functions might be broken or not working because of undermaintenance!!
 
 * [ox_lib](https://github.com/overextended/ox_lib)
 * [oxmysql](https://github.com/overextended/oxmysql)
+* [ox_inventory](https://github.com/overextended/ox_inventory)
 
 
